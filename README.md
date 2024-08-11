@@ -15,8 +15,8 @@ To set up the project, follow these steps:
 
 1. Clone the GitHub repository:
 ```bash
-git clone <repository_url>
-cd <repository_directory>
+git clone https://github.com/AswinBalamurugan/llama3-graph-rag.git
+cd llama3-graph-rag
 ```
 2. Create a Python environment using Conda:
 ```bash
