@@ -1,0 +1,7 @@
+streamlit
+networkx
+pandas
+langchain
+ollama
+pypdf
+langchain_community
