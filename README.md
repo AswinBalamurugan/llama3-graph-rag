@@ -55,7 +55,7 @@ Comparing the results with the simple RAG implementation from my [A Chatbot with
 
 |Simple RAG| Graph RAG|
 |-----|-----|
-|![rag](https://github.com/AswinBalamurugan/llama3-graph-rag.git/blob/main/images/rag.png)|![graph](https://github.com/AswinBalamurugan/llama3-graph-rag.git/blob/main/images/graph-rag.png)|
+|![rag](https://github.com/AswinBalamurugan/llama3-graph-rag/blob/main/images/rag.png)|![graph](https://github.com/AswinBalamurugan/llama3-graph-rag/blob/main/images/graph-rag.png)|
 
 The graph-RAG response is superior due to its comprehensive analysis, which integrates contextual depth and strategic considerations, offering a nuanced comparison beyond mere physical attributes. This approach provides a more holistic understanding of the characters' abilities and potential interactions.
 
